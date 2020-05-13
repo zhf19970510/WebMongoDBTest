@@ -1,0 +1,2 @@
+# WebMongoDBTest
+这是使用Spring+Spring MVC+MongoDB构建的一个javaEE项目，目标是通过构建web项目与MongoDB整合，了解MongoDB在实际开发的使用方法和目的。
